@@ -1,7 +1,7 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-
+2024-11-28
 
 #Bike share data project
 
@@ -12,5 +12,8 @@ Using Python, you'll explore this data to uncover patterns, compute descriptive 
 ### Files used
    The following file contains necessary code:
         * bikeshare.py
+
 ### Credits
+https://www.w3schools.com/python/pandas/pandas_csv.asp
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.mode.html
 
